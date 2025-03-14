@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "ProductAPI.Controllers.ProductController",
+    "Method": "AdicionaProduto",
+    "RelativePath": "produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "ProductAPI.Models.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
