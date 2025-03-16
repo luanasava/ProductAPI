@@ -1,1 +1,14 @@
+# Ignorar a pasta .vs (Visual Studio)
 .vs/
+
+# Ignorar arquivos de compilação e binários
+bin/
+obj/
+
+# Ignorar arquivos de usuário do Visual Studio
+*.user
+*.suo
+
+# Ignorar logs e dependências
+logs/
+node_modules/
