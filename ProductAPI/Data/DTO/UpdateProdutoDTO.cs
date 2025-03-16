@@ -1,17 +1,14 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Xunit.Sdk;
 
-namespace ProductAPI.Models;
+namespace ProductAPI.Data.DTO;
 
-public class Produto
+public class UpdateProdutoDTO
 {
-    private decimal _valor;
+    
+private decimal _valor;
 
-    [Key]
-    [Required(ErrorMessage = "É necessário informar o ID do produto.")]
-    public int Id { get; set; }
-
-
-    [Required (ErrorMessage = "O nome do produto é obrigatório.")]
+    [Required(ErrorMessage = "O nome do produto é obrigatório.")]
     public string Nome { get; set; }
 
 
@@ -22,9 +19,9 @@ public class Produto
 
     [Required]
     [Range(0, double.MaxValue, ErrorMessage = "O valor não pode ser negativo.")]
-    public decimal Valor 
+    public decimal Valor
     {
         get => _valor;
-        set => _valor = Math.Round(value, 6); 
+        set => _valor = Math.Round(value, 6);
     }
 }
