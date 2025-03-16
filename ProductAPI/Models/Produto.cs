@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProductAPI.Models;
 
@@ -7,6 +8,7 @@ public class Produto
     private decimal _valor;
 
     [Key]
+
     [Required(ErrorMessage = "É necessário informar o ID do produto.")]
     public int Id { get; set; }
 
