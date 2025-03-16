@@ -69,9 +69,7 @@ namespace ProductAPI.Testes.Controllers
             Assert.NotNull(produto); 
             int produtoId = produto.Id; 
 
-
             var resultado = _controller.RetornaProdutoId(produtoId) as OkObjectResult;
-
 
             Assert.NotNull(resultado);
             Assert.Equal(produtoId, ((Produto)resultado.Value).Id);
