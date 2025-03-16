@@ -54,8 +54,7 @@
               "RelativeToolTip": "ProductAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:50:05.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:50:05.457Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "ProductAPI\\Data\\DTO\\CreateProdutoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:49:42.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:49:42.875Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "ProductAPI\\Profiles\\ProdutoProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:47:29.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:47:29.884Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "ProductAPI\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:24:26.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:24:26.033Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAEwEQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:05:20.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T18:05:20.442Z"
             },
             {
               "$type": "Document",
@@ -115,9 +110,9 @@
               "Title": "ProductControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
               "RelativeDocumentMoniker": "ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
-              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\Controllers\\ProductControllerTest.cs*",
-              "RelativeToolTip": "ProductAPI.Testes\\Controllers\\ProductControllerTest.cs*",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAswLMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T17:49:00.096Z",
               "EditorCaption": ""
@@ -125,28 +120,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductAPI.Testes",
+              "Title": "ProductAPI.Testes.csproj",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "RelativeDocumentMoniker": "ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "RelativeToolTip": "ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T17:48:01.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T17:48:01.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductAPI",
+              "Title": "ProductAPI.csproj",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\ProductAPI.csproj",
               "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\ProductAPI.csproj",
               "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T17:20:53.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T17:20:53.521Z"
             }
           ]
         }
