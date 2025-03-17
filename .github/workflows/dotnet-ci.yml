@@ -27,6 +27,9 @@ jobs:
     - name: Restaurar dependências
       run: dotnet restore
 
+    - name: Verificar versão do .NET instalado
+      run: dotnet --info
+
     - name: Compilar o projeto
       run: dotnet build --no-restore --configuration Release
 
