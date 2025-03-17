@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\luana\\source\\repos\\ProductAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi.testes\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|solutionrelative:productapi.testes\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\profiles\\produtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\profiles\\produtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi.testes\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|solutionrelative:productapi.testes\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\data\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\data\\dto\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\dto\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\migrations\\20250315201327_criandotabeladeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\migrations\\20250315201327_criandotabeladeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi.testes\\productapi.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7C5E2ED4-2E31-4919-80FE-5FA4CE314EFA}|ProductAPI.Testes\\ProductAPI.Testes.csproj|solutionrelative:productapi.testes\\productapi.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|c:\\users\\luana\\source\\repos\\productapi\\productapi\\data\\dto\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F9580D-4769-4AD4-82DF-3B4AF866048F}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\data\\dto\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,23 +58,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250315201327_CriandoTabelaDeProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Migrations\\20250315201327_CriandoTabelaDeProdutos.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Migrations\\20250315201327_CriandoTabelaDeProdutos.cs",
+              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Migrations\\20250315201327_CriandoTabelaDeProdutos.cs",
+              "RelativeToolTip": "ProductAPI\\Migrations\\20250315201327_CriandoTabelaDeProdutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:25:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Data\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Data\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Data\\ProdutoContext.cs",
+              "RelativeToolTip": "ProductAPI\\Data\\ProdutoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:24:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:49:25.586Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T16:49:21.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Program.cs",
               "RelativeToolTip": "ProductAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:50:05.457Z"
+              "WhenOpened": "2025-03-16T18:50:05.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CreateProdutoDTO.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Data\\DTO\\CreateProdutoDTO.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Data\\DTO\\CreateProdutoDTO.cs",
@@ -70,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProdutoProfile.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Profiles\\ProdutoProfile.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Profiles\\ProdutoProfile.cs",
@@ -78,11 +146,12 @@
               "RelativeToolTip": "ProductAPI\\Profiles\\ProdutoProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:47:29.884Z"
+              "WhenOpened": "2025-03-16T18:47:29.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Models\\Produto.cs",
@@ -94,40 +163,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAEwEQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:05:20.442Z"
+              "WhenOpened": "2025-03-16T18:05:20.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
               "RelativeDocumentMoniker": "ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
               "RelativeToolTip": "ProductAPI.Testes\\Controllers\\ProductControllerTest.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwEUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T17:49:00.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductAPI.Testes.csproj",
               "DocumentMoniker": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "RelativeDocumentMoniker": "ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI.Testes\\ProductAPI.Testes.csproj",
               "RelativeToolTip": "ProductAPI.Testes\\ProductAPI.Testes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T17:48:01.842Z"
+              "WhenOpened": "2025-03-16T17:48:01.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,9 +208,10 @@
               "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
               "ToolTip": "C:\\Users\\luana\\source\\repos\\ProductAPI\\ProductAPI\\ProductAPI.csproj",
               "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T17:20:53.521Z"
+              "WhenOpened": "2025-03-16T17:20:53.521Z",
+              "EditorCaption": ""
             }
           ]
         }

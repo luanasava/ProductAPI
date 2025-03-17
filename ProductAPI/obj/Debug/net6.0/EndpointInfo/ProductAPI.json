@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "ProductAPI",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/produto": {
@@ -10,7 +10,9 @@
         "tags": [
           "Product"
         ],
+        "summary": "Adiciona um produto",
         "requestBody": {
+          "description": "",
           "content": {
             "application/json-patch+json": {
               "schema": {
@@ -35,8 +37,8 @@
           }
         },
         "responses": {
-          "200": {
-            "description": "Success"
+          "201": {
+            "description": ""
           }
         }
       },
@@ -44,6 +46,7 @@
         "tags": [
           "Product"
         ],
+        "summary": "Retorna uma lista com todos os produtos",
         "parameters": [
           {
             "name": "busca",
@@ -63,7 +66,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "",
             "content": {
               "text/plain": {
                 "schema": {
@@ -99,6 +102,7 @@
         "tags": [
           "Product"
         ],
+        "summary": "Retorna um produto específico por ID",
         "parameters": [
           {
             "name": "Id",
@@ -111,7 +115,27 @@
         ],
         "responses": {
           "200": {
-            "description": "Success"
+            "description": ""
+          },
+          "404": {
+            "description": "",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
           }
         }
       },
@@ -119,10 +143,12 @@
         "tags": [
           "Product"
         ],
+        "summary": "Atualiza um produto existente por ID",
         "parameters": [
           {
             "name": "id",
             "in": "query",
+            "description": "",
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -130,6 +156,7 @@
           }
         ],
         "requestBody": {
+          "description": "",
           "content": {
             "application/json-patch+json": {
               "schema": {
@@ -154,22 +181,85 @@
           }
         },
         "responses": {
-          "200": {
-            "description": "Success"
+          "204": {
+            "description": ""
+          },
+          "404": {
+            "description": "",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Product"
+        ],
+        "summary": "Remove um produto por ID",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": ""
+          },
+          "404": {
+            "description": "",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
           }
         }
       }
     },
-    "/produto/nome/{nome}": {
+    "/produto/nome": {
       "get": {
         "tags": [
           "Product"
         ],
+        "summary": "Retorna um produto específico por nome",
         "parameters": [
           {
             "name": "nome",
-            "in": "path",
-            "required": true,
+            "in": "query",
+            "description": "",
             "schema": {
               "type": "string"
             }
@@ -177,7 +267,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
+            "description": "",
             "content": {
               "text/plain": {
                 "schema": {
@@ -195,29 +285,26 @@
                 }
               }
             }
-          }
-        }
-      }
-    },
-    "/produto/{id}": {
-      "delete": {
-        "tags": [
-          "Product"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
+          },
+          "404": {
+            "description": "",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
             }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success"
           }
         }
       }
@@ -250,6 +337,33 @@
           }
         },
         "additionalProperties": false
+      },
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
       },
       "Produto": {
         "required": [
