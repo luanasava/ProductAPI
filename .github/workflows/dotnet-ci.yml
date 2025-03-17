@@ -21,14 +21,13 @@ jobs:
 
     - name: Clear NuGet cache
       run: dotnet nuget locals all --clear
+    - name: Verificar versão do .NET instalado
+      run: dotnet --info
     - name: List files
       run: ls -R
 
     - name: Restaurar dependências
       run: dotnet restore
-
-    - name: Verificar versão do .NET instalado
-      run: dotnet --info
 
     - name: Compilar o projeto
       run: dotnet build --no-restore --configuration Release
