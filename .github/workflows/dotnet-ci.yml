@@ -25,9 +25,6 @@ jobs:
       run: dotnet --info
     - name: List files
       run: ls -R
-      
-    - name: Limpar o projeto
-      run: dotnet clean
 
     - name: Restaurar dependências
       run: dotnet restore
